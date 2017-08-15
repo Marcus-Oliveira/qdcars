@@ -1,0 +1,180 @@
+
+/** Estilos gerais das sections **/
+
+.section_title{
+	font-family: "Lato";
+	font-weight: 900;
+	font-size: 40px;
+	color: #000;
+}
+
+h2{
+    margin: 0px;
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 14px;
+    color: #000;
+}
+
+/** SECTION section-vitrine_produtos **/
+
+#section-vitrine_produtos .container{
+	border-top: 1px solid #333;
+}
+
+#section-vitrine_produtos .produto_box img{
+	margin-top: 25px!important;
+}
+
+#section-vitrine_produtos .produto_box .novo_produto{
+    position: absolute;
+    left: 30px;
+    top: 0;
+    background-color: #000;
+    padding: 3px 6px;
+    color: #fff; 
+}
+#section-vitrine_produtos .produto_box .frete_gratis{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: #0082a7;
+    padding: 3px 6px;
+    color: #fff;
+}
+#section-vitrine_produtos .produto_box .oferta{
+    position: absolute;
+    right: 0px;
+    top: 26px;
+    background-color: #de0572;
+    padding: 3px 6px;
+    color: #fff;    
+}
+
+#section-vitrine_produtos .produto_box i{
+	margin-right: 5px;
+}
+  
+
+/** SECTION section-receber_novidades **/
+
+#section-receber_novidades{
+	padding: 30px 0 70px 0;
+	background-color: #e4e4e4;
+}
+
+#section-receber_novidades h1{
+	margin-bottom: 45px;
+}
+
+#section-receber_novidades p{
+	margin: 0;
+	font-size: 14px;
+}
+
+#section-receber_novidades form{
+	margin-top: 45px;
+}
+
+#section-receber_novidades input{
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 0;
+    border-bottom: 2px #333 solid;
+}
+.input-group-addon{
+	border-radius: 0;
+    border-bottom: 2px #333 solid;	
+}
+.icones-redes_sociais{
+	margin-top: 48px;
+}
+
+.icones-redes_sociais li{
+	display: inline-block;
+}
+
+.icones-redes_sociais span{
+	background-color: #fff;
+	border-radius: 50%;
+	font-size: 20px;
+	margin-left: 15px;
+	color: #333333;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.icones-redes_sociais a{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+/** SECTION section-contatos **/
+
+#section-contatos{
+	padding: 30px 0 70px 0;
+	background-color: #333333;
+	color: #fff;
+}
+
+#section-contatos h2{
+	color: #fff;	
+}
+
+#section-contatos a{
+	text-decoration: none;
+	color: #fff;
+}
+
+#section-contatos ul{
+	line-height: 20px;
+}
+
+.atedimento-ddd{
+	font-size: 14px;
+}
+
+.atedimento-telefone{
+	font-size: 20px;
+}
+
+.paragrafo-centralizado{
+	margin-top: 55px;
+}
+
+/** SECTION section-formas_pagamento **/
+
+#section-formas_pagamento{
+	background-color: #e4e4e4;
+}
+
+#section-formas_pagamento{
+    padding: 30px 0 20px 0;
+}
+
+#section-formas_pagamento ul{
+	width: 50%;
+	padding-left: 15px;
+}
+
+#section-formas_pagamento li {
+	display: inline-block;
+}
+
+#certificados_box img{
+	margin-left: 15px;
+}
+
+#certificados_box img:first-child{
+	margin-left: 25px;	
+}
+
+#certificados_box img:last-child{
+    margin-top: -40px;
+}
+
+/** FOOTER **/
+

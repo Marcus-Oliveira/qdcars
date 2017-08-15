@@ -1,0 +1,35 @@
+/** MARGINS **/
+
+.mgauto{
+	margin: auto!important;
+}
+
+.mt0{
+	margin-top: 0px;
+}
+.mt5{
+	margin-top: 5px;
+}
+.mt15{
+	margin-top: 15px;
+}
+.mt25{
+	margin-top: 25px;
+}
+.mt45{
+	margin-top: 45px;
+}
+.mb25{
+	margin-bottom: 25px;
+}
+.mb50{
+	margin-bottom: 50px;
+}
+.ml0{
+	margin-left: 0!important;
+}
+
+/** PADDINGS **/
+.pdl0{
+	padding-left: 0;
+}
